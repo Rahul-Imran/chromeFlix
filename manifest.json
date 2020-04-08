@@ -1,0 +1,17 @@
+{
+  "name": "Netflix",
+  "description": "Simple Netflix app for all platforms.",
+  "version": "69.420",
+  "manifest_version": 2,
+  "icons": {
+    "128": "128.png"
+  },
+  "app": {
+    "urls": [
+      "https://www.netflix.com/gb/"
+    ],
+    "launch": {
+      "web_url": "https://www.netflix.com/gb/"
+    }
+  }
+}
