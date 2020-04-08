@@ -13,4 +13,5 @@ In order to use follow these instructions:
   <li>Right click again and click "Create shortcuts..." and click "Create"</li>
   <li>Double click the shorcut and make sure to pin to taskbar or save to favourites for easy access</li> 
 </ol>
+
 Boom! You now have a working netflix desktop app  
