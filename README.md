@@ -4,7 +4,7 @@ Simple Netflix app for all platforms
 In order to use follow these instructions:
 
 <ol>
-  <li>Download the zip file from github</li>
+  <li>Download the zip file from github (or clone it if you know how)</li>
   <li>Extract the zip file so you get a folder</li>
   <li>Visit chrome://extensions and in the top right hand corner turn on developer mode</li>
   <li>Click "Load unpacked" and select the folder you extracted</li>
